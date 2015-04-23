@@ -16,7 +16,7 @@ This is an F5 LTM tool that clones an irule or data-group.  It can clone the obj
 ## Requirements
 
 * An administrative user account that has access to the tmsh command-line on the source and destination F5 device
-* Established ssh keys with the source and destination F5 defice
+* Established ssh keys with the source and destination F5 device
 
 ## Supported Platforms
 
